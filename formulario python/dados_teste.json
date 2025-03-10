@@ -1,0 +1,20 @@
+{
+    "pontos_acupuntura": {
+        "cabeca": [
+            {
+                "nome": "Ponto 1",
+                "codigo": "P1",
+                "localizacao": "Cabeça",
+                "funcoes": [
+                    "Função 1",
+                    "Função 2"
+                ],
+                "precaucoes": [
+                    "Precaução 1"
+                ],
+                "imagem": "caminho/para/imagem.png",
+                "regiao": "cabeca"
+            }
+        ]
+    }
+}
